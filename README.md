@@ -4,7 +4,6 @@ It allows multiple sections with the same class to behave independently—each r
 Perfect for custom interactions within Elementor-built pages.
 
 # Important CSS :
-CSS must:
 .tab-content{
 
 display: none;
